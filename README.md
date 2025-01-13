@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **3D Game Development, Networking.**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 Feel free to check out my [linkdin](https://www.linkedin.com/in/arpit-pawar-295384272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **C#, Unity.**
 
