@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacktdc&label=Profile%20views&color=0e75b6&style=flat" alt="jacktdc" /> </p>
 
-- 🔭 I’m currently working on [abc](abccc)
+- 🔭 I’m currently working at [Reliable Education Classes](https://g.co/kgs/q8wCagG), teaching Computer Science and shaping young minds.
 
 - 🌱 I’m currently learning **3D Game Development, Networking.**
 
