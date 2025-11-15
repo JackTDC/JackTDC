@@ -8,10 +8,10 @@
 ▸ Level: Senior Developer
 ▸ Class: Game Dev / App Dev / Educator
 ▸ Current Role: Teaching CS at Reliable Education Classes
-▸ Gaming Experience: 15+ Years (Since Age 3!)
+▸ Gaming Experience: 18+ Years (Since Age 3!)
 ▸ Currently Learning: 3D Game Development & Networking
 ▸ Specialization: Unity, C#, Flutter, Game Design
-▸ Contact: jackitupyt@gmail.com
+▸ Contact: jackathu439@gmail.com
 ```
 
 **Building immersive game worlds and smooth mobile experiences while inspiring the next generation of developers.**
@@ -21,7 +21,7 @@
 
 ## 🔗 Social Links  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-pawar-295384272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jackitupyt@gmail.com" target="_blank">
