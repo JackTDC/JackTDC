@@ -34,8 +34,6 @@
 
 ---
 
----
-
 ## 💡 Skills & Expertise
 
 <div align="center">
