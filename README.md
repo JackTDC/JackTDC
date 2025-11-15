@@ -4,15 +4,14 @@
 <img align="right" alt="Gaming Setup" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 Professional Overview
-```
-▸ Experience Level: Senior Developer
-▸ Specialization: Game Development / App Development / Education
-▸ Current Position: Lead Game Developer at ![DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)
-▸ Industry Experience: 18+ Years in Gaming & Development
-▸ Focus Areas: 3D Game Development & Multiplayer Networking
-▸ Core Technologies: Unity, C#, Flutter, Game Design
-▸ Contact: jackathu439@gmail.com
-```
+
+▸ **Experience Level:** Senior Developer  
+▸ **Specialization:** Game Development / App Development / Education  
+▸ **Current Position:** Lead Game Developer at [DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)  
+▸ **Industry Experience:** 18+ Years in Gaming & Development  
+▸ **Focus Areas:** 3D Game Development & Multiplayer Networking  
+▸ **Core Technologies:** Unity, C#, Flutter, Game Design  
+▸ **Contact:** [jackathu439@gmail.com](mailto:jackathu439@gmail.com)
 
 **Creating engaging game experiences and intuitive mobile applications while mentoring aspiring developers.**
 
