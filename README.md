@@ -1,28 +1,184 @@
-<h1 align="center">Hi 👋, I'm Arpit Pawar</h1>
-<h3 align="center">Bringing game ideas to life with C# and a sprinkle of magic.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey There! I'm Arpit Pawar 👋</h1>
+<h3 align="center">Game Developer | App Developer | Educator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacktdc&label=Profile%20views&color=0e75b6&style=flat" alt="jacktdc" /> </p>
+<img align="right" alt="Gaming Setup" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working at [Reliable Education Classes](https://g.co/kgs/q8wCagG), teaching Computer Science and shaping young minds.
+### 👨‍💻 About Me  
 
-- 🌱 I’m currently learning **3D Game Development, Networking.**
+▸ Level: Senior Developer
+▸ Class: Game Dev / App Dev / Educator
+▸ Current Role: Teaching CS at Reliable Education Classes
+▸ Gaming Experience: 15+ Years (Since Age 3!)
+▸ Currently Learning: 3D Game Development & Networking
+▸ Specialization: Unity, C#, Flutter, Game Design
+▸ Contact: jackathu349@gmail.com
 
-- 👨‍💻 Feel free to check out my [linkdin](https://www.linkedin.com/in/arpit-pawar-295384272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **C#, Unity.**
+*Building immersive game worlds and smooth mobile experiences while inspiring the next generation of developers.*
 
-- 📫 How to reach me **jackitupyt@gmail.com**
+---
 
-- 📄 Know about my experiences [resume](resume)
 
-- ⚡ Fun fact **I have been gaming everyday since I was 3**
-
-<h3 align="left">Connect with me:</h3>
+## 🔗 Social Links  
 <p align="left">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jackitupyt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://youtube.com/@your-channel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+---
+
+## 💡 Skills & Expertise
+
+<div align="center">
+
+### 🎮 Game Development
+| Skill | Progress | Level |
+|-------|----------|-------|
+| Unity Development | ![](https://geps.dev/progress/95) | ⭐⭐⭐⭐⭐ |
+| C# Programming | ![](https://geps.dev/progress/90) | ⭐⭐⭐⭐⭐ |
+| 3D Modeling (Blender) | ![](https://geps.dev/progress/70) | ⭐⭐⭐ |
+| Game Physics & AI | ![](https://geps.dev/progress/85) | ⭐⭐⭐⭐ |
+| Multiplayer Networking | ![](https://geps.dev/progress/70) | ⭐⭐⭐⭐ |
+
+### 📱 App Development
+| Skill | Progress | Level |
+|-------|----------|-------|
+| Flutter Development | ![](https://geps.dev/progress/88) | ⭐⭐⭐⭐⭐ |
+| Firebase Integration | ![](https://geps.dev/progress/82) | ⭐⭐⭐⭐ |
+| UI/UX Design | ![](https://geps.dev/progress/80) | ⭐⭐⭐⭐ |
+| Cross-Platform Dev | ![](https://geps.dev/progress/85) | ⭐⭐⭐⭐ |
+| Backend Development | ![](https://geps.dev/progress/75) | ⭐⭐⭐⭐ |
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Photon-%23004480.svg?style=for-the-badge&logo=photon&logoColor=white" alt="Photon Engine"/>
+  <img src="https://img.shields.io/badge/PlayFab-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="PlayFab"/>
+</p>
+
+### 📱 App Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MAUI"/>
+</p>
+
+### 🗄 Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+</p>
+
+---
+
+## 🎯 Current Projects
+
+csharp
+public class ArpitPawar : Developer
+{
+    private Quest[] activeQuests = 
+    {
+        new Quest("Multiplayer 3D Action Game", difficulty: "Hard"),
+        new Quest("Educational Mobile App", difficulty: "Medium"),
+        new Quest("VR Training Simulation", difficulty: "Epic"),
+        new Quest("Cross-platform Productivity Tool", difficulty: "Medium")
+    };
+    
+    public void DailyRoutine()
+    {
+        while (energyLevel > 0)
+        {
+            Teach(students);
+            BuildGames();
+            DevelopApps();
+            PlayGames(); // Research purposes 😄
+            DrinkCoffee();
+            
+            if (timeOfDay == "3 AM")
+                Console.WriteLine("One more bug fix...");
+        }
+        
+        Sleep(4); // Speedrun rest%
+    }
+}
 
 
+## 🏆 Achievement Unlocked
+
+<div align="center">
+
+| Achievement | Description | Year |
+|-------------|-------------|------|
+| 🎮 *Gaming Veteran* | 15+ years of continuous gaming | 2009-2024 |
+| 👨‍🏫 *Knowledge Sharer* | Teaching CS at Reliable Education | 2024 |
+| 🛠 *Multi-Class Hero* | Master of Games & Apps | 2024 |
+| 🌐 *Networking Novice* | Currently grinding Multiplayer skills | In Progress |
+| 🎨 *3D Apprentice* | Learning advanced 3D game dev | In Progress |
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+
+🎮 Started gaming at age 3 - It's not just a hobby, it's a lifestyle!
+☕ Runs on coffee.exe and passion.dll
+🐛 "It's not a bug, it's a feature" - My life motto
+🎯 Competitive FPS & Strategy game enthusiast
+🏗 Love building games as much as playing them
+🌙 Best debugging happens at 3 AM
+💡 Believe in learning by breaking things (then fixing them)
+
+
+---
+
+## 📊 GitHub Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JackTDC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
+</p>
+
+## 🔥 Code Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTDC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Most Used Languages" />
+</p>
+
+---
+
+<div align="center">
+  
+### 💬 "In a world full of players, be the one who creates the game."
+
+</div>
