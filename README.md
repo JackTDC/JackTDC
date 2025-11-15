@@ -1,25 +1,24 @@
-<h1 align="center">Hey There! I'm Arpit Pawar 👋</h1>
-<h3 align="center">Game Developer | App Developer | Educator</h3>
+<h1 align="center">Hi, I'm Arpit Pawar 👋</h1>
+<h3 align="center">Game Developer | Application Developer | Computer Science Educator</h3>
 
 <img align="right" alt="Gaming Setup" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 Player Stats
+### 👨‍💻 Professional Overview
 ```
-▸ Level: Senior Developer
-▸ Class: Game Dev / App Dev / Educator
-▸ Current Role: Teaching CS at Reliable Education Classes
-▸ Gaming Experience: 18+ Years (Since Age 3!)
-▸ Currently Learning: 3D Game Development & Networking
-▸ Specialization: Unity, C#, Flutter, Game Design
+▸ Experience Level: Senior Developer
+▸ Specialization: Game Development / App Development / Education
+▸ Current Position: Computer Science Instructor at Reliable Education Classes
+▸ Industry Experience: 18+ Years in Gaming & Development
+▸ Focus Areas: 3D Game Development & Multiplayer Networking
+▸ Core Technologies: Unity, C#, Flutter, Game Design
 ▸ Contact: jackathu439@gmail.com
 ```
 
-**Building immersive game worlds and smooth mobile experiences while inspiring the next generation of developers.**
+**Creating engaging game experiences and intuitive mobile applications while mentoring aspiring developers.**
 
 ---
 
-
-## 🔗 Social Links  
+## 🔗 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/arpit-pawar-295384272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,7 +35,7 @@
 <div align="center">
 
 ### 🎮 Game Development
-| Skill | Progress | Level |
+| Skill | Proficiency | Rating |
 |-------|----------|-------|
 | Unity Development | ![](https://geps.dev/progress/95) | ⭐⭐⭐⭐⭐ |
 | C# Programming | ![](https://geps.dev/progress/90) | ⭐⭐⭐⭐⭐ |
@@ -45,7 +44,7 @@
 | Multiplayer Networking | ![](https://geps.dev/progress/70) | ⭐⭐⭐⭐ |
 
 ### 📱 App Development
-| Skill | Progress | Level |
+| Skill | Proficiency | Rating |
 |-------|----------|-------|
 | Flutter Development | ![](https://geps.dev/progress/88) | ⭐⭐⭐⭐⭐ |
 | Firebase Integration | ![](https://geps.dev/progress/82) | ⭐⭐⭐⭐ |
@@ -56,7 +55,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 ### 🎮 Game Development
 <p align="left">
@@ -101,70 +100,68 @@
 ```csharp
 public class ArpitPawar : Developer
 {
-    private Quest[] activeQuests = 
+    private Project[] activeProjects = 
     {
-        new Quest("Multiplayer 3D Action Game", difficulty: "Hard"),
-        new Quest("Educational Mobile App", difficulty: "Medium"),
-        new Quest("VR Training Simulation", difficulty: "Epic"),
-        new Quest("Cross-platform Productivity Tool", difficulty: "Medium")
+        new Project("Multiplayer 3D Action Game", complexity: "High"),
+        new Project("Educational Mobile App", complexity: "Medium"),
+        new Project("VR Training Simulation", complexity: "Advanced"),
+        new Project("Cross-platform Productivity Tool", complexity: "Medium")
     };
     
-    public void DailyRoutine()
+    public void WorkFlow()
     {
-        while (energyLevel > 0)
+        while (passionate)
         {
-            Teach(students);
-            BuildGames();
-            DevelopApps();
-            PlayGames(); // Research purposes 😄
-            DrinkCoffee();
+            TeachStudents();
+            DevelopGames();
+            BuildApplications();
+            ContinuousLearning();
+            SolveProblems();
             
-            if (timeOfDay == "3 AM")
-                Console.WriteLine("One more bug fix...");
+            if (inspiration.strikes())
+                CreateSomethingNew();
         }
-        
-        Sleep(4); // Speedrun rest%
     }
 }
 ```
 
-## 🏆 Achievement Unlocked
+## 🏆 Professional Milestones
 
 <div align="center">
 
-| Achievement | Description | Year |
+| Milestone | Description | Timeline |
 |-------------|-------------|------|
-| 🎮 **Gaming Veteran** | 15+ years of continuous gaming | 2009-2024 |
-| 👨‍🏫 **Knowledge Sharer** | Teaching CS at Reliable Education | 2024 |
-| 🛠️ **Multi-Class Hero** | Master of Games & Apps | 2024 |
-| 🌐 **Networking Novice** | Currently grinding Multiplayer skills | In Progress |
-| 🎨 **3D Apprentice** | Learning advanced 3D game dev | In Progress |
+| 🎮 **Industry Experience** | 18+ years in gaming & development | 2007-2025 |
+| 👨‍🏫 **Educator** | Teaching Computer Science at Reliable Education | 2024-Present |
+| 🛠️ **Full-Stack Developer** | Expertise in Games & Mobile Applications | 2024 |
+| 🌐 **Multiplayer Systems** | Advancing skills in networked gameplay | In Progress |
+| 🎨 **3D Development** | Expanding expertise in advanced 3D systems | In Progress |
 
 </div>
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ About Me
 
 ```
-🎮 Started gaming at age 3 - It's not just a hobby, it's a lifestyle!
-☕ Runs on coffee.exe and passion.dll
-🐛 "It's not a bug, it's a feature" - My life motto
-🎯 Competitive FPS & Strategy game enthusiast
-🏗️ Love building games as much as playing them
-🌙 Best debugging happens at 3 AM
-💡 Believe in learning by breaking things (then fixing them)
+🎮 18+ years of experience in gaming and interactive development
+☕ Fueled by coffee and problem-solving
+🐛 Dedicated to writing clean, maintainable code
+🎯 Experienced in competitive gaming and strategic thinking
+🏗️ Passionate about both creating and playing games
+🌙 Committed to continuous improvement
+💡 Believer in hands-on learning and experimentation
 ```
 
 ---
 
-## 📊 GitHub Battle Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JackTDC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
-## 🔥 Code Distribution
+## 🔥 Language Distribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTDC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Most Used Languages" />
@@ -174,6 +171,6 @@ public class ArpitPawar : Developer
 
 <div align="center">
   
-### 💬 "In a world full of players, be the one who creates the game."
+### 💬 "Great developers don't just use technology—they shape it."
 
 </div>
