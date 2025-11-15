@@ -139,7 +139,7 @@ public class ArpitPawar : Developer
 | Milestone | Description | Timeline |
 |-------------|-------------|------|
 | 🎮 **Industry Experience** | 18+ years in gaming & development | 2007-2025 |
-| 👨‍🏫 **Educator** | Teaching Computer Science at Reliable Education | 2024-Present |
+| 👨‍🏫 **Educator** | Teaching Computer Science at Reliable Education | 2024-2025 |
 | 🛠️ **Full-Stack Developer** | Expertise in Games & Mobile Applications | 2024 |
 | 🌐 **Multiplayer Systems** | Advancing skills in networked gameplay | In Progress |
 | 🎨 **3D Development** | Expanding expertise in advanced 3D systems | In Progress |
