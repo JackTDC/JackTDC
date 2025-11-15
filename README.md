@@ -7,7 +7,7 @@
 ```
 ▸ Experience Level: Senior Developer
 ▸ Specialization: Game Development / App Development / Education
-▸ Current Position: Lead Game Developer at [DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)
+▸ Current Position: Lead Game Developer at ![DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)
 ▸ Industry Experience: 18+ Years in Gaming & Development
 ▸ Focus Areas: 3D Game Development & Multiplayer Networking
 ▸ Core Technologies: Unity, C#, Flutter, Game Design
