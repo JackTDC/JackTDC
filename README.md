@@ -3,18 +3,18 @@
 
 <img align="right" alt="Gaming Setup" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me  
-
+### 👨‍💻 Player Stats
+```
 ▸ Level: Senior Developer
 ▸ Class: Game Dev / App Dev / Educator
 ▸ Current Role: Teaching CS at Reliable Education Classes
 ▸ Gaming Experience: 15+ Years (Since Age 3!)
 ▸ Currently Learning: 3D Game Development & Networking
 ▸ Specialization: Unity, C#, Flutter, Game Design
-▸ Contact: jackathu349@gmail.com
+▸ Contact: jackitupyt@gmail.com
+```
 
-
-*Building immersive game worlds and smooth mobile experiences while inspiring the next generation of developers.*
+**Building immersive game worlds and smooth mobile experiences while inspiring the next generation of developers.**
 
 ---
 
@@ -45,7 +45,7 @@
 |-------|----------|-------|
 | Unity Development | ![](https://geps.dev/progress/95) | ⭐⭐⭐⭐⭐ |
 | C# Programming | ![](https://geps.dev/progress/90) | ⭐⭐⭐⭐⭐ |
-| 3D Modeling (Blender) | ![](https://geps.dev/progress/70) | ⭐⭐⭐ |
+| 3D Modeling (Blender) | ![](https://geps.dev/progress/75) | ⭐⭐⭐⭐ |
 | Game Physics & AI | ![](https://geps.dev/progress/85) | ⭐⭐⭐⭐ |
 | Multiplayer Networking | ![](https://geps.dev/progress/70) | ⭐⭐⭐⭐ |
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 🎮 Game Development
 <p align="left">
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/.NET%20MAUI-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET MAUI"/>
 </p>
 
-### 🗄 Backend & Databases
+### 🗄️ Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -103,7 +103,7 @@
 
 ## 🎯 Current Projects
 
-csharp
+```csharp
 public class ArpitPawar : Developer
 {
     private Quest[] activeQuests = 
@@ -131,7 +131,7 @@ public class ArpitPawar : Developer
         Sleep(4); // Speedrun rest%
     }
 }
-
+```
 
 ## 🏆 Achievement Unlocked
 
@@ -139,11 +139,11 @@ public class ArpitPawar : Developer
 
 | Achievement | Description | Year |
 |-------------|-------------|------|
-| 🎮 *Gaming Veteran* | 15+ years of continuous gaming | 2009-2024 |
-| 👨‍🏫 *Knowledge Sharer* | Teaching CS at Reliable Education | 2024 |
-| 🛠 *Multi-Class Hero* | Master of Games & Apps | 2024 |
-| 🌐 *Networking Novice* | Currently grinding Multiplayer skills | In Progress |
-| 🎨 *3D Apprentice* | Learning advanced 3D game dev | In Progress |
+| 🎮 **Gaming Veteran** | 15+ years of continuous gaming | 2009-2024 |
+| 👨‍🏫 **Knowledge Sharer** | Teaching CS at Reliable Education | 2024 |
+| 🛠️ **Multi-Class Hero** | Master of Games & Apps | 2024 |
+| 🌐 **Networking Novice** | Currently grinding Multiplayer skills | In Progress |
+| 🎨 **3D Apprentice** | Learning advanced 3D game dev | In Progress |
 
 </div>
 
@@ -151,15 +151,15 @@ public class ArpitPawar : Developer
 
 ## ⚡ Fun Facts
 
-
+```
 🎮 Started gaming at age 3 - It's not just a hobby, it's a lifestyle!
 ☕ Runs on coffee.exe and passion.dll
 🐛 "It's not a bug, it's a feature" - My life motto
 🎯 Competitive FPS & Strategy game enthusiast
-🏗 Love building games as much as playing them
+🏗️ Love building games as much as playing them
 🌙 Best debugging happens at 3 AM
 💡 Believe in learning by breaking things (then fixing them)
-
+```
 
 ---
 
