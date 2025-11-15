@@ -6,14 +6,15 @@
 ### 👨‍💻 Professional Overview
 
 ▸ **Experience Level:** Senior Developer  
-▸ **Specialization:** Game Development / App Development / Education  
+▸ **Specialization:** Game Development / App Development / Electronics / Education  
 ▸ **Current Position:** Lead Game Developer at [DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)  
+▸ **Leadership Role:** Team Leader at Agnels Robotics Club  
 ▸ **Industry Experience:** 18+ Years in Gaming & Development  
-▸ **Focus Areas:** 3D Game Development & Multiplayer Networking  
-▸ **Core Technologies:** Unity, C#, Flutter, Game Design  
+▸ **Focus Areas:** 3D Game Development, Multiplayer Networking & Robotics  
+▸ **Core Technologies:** Unity, C#, Flutter, Game Design, Arduino, Embedded Systems  
 ▸ **Contact:** [jackathu439@gmail.com](mailto:jackathu439@gmail.com)
 
-**Creating engaging game experiences and intuitive mobile applications while mentoring aspiring developers.**
+**Creating engaging game experiences, intuitive mobile applications, and innovative robotics solutions while mentoring aspiring developers and engineers.**
 
 ---
 
@@ -101,24 +102,31 @@ public class ArpitPawar : Developer
 {
     private Project[] activeProjects = 
     {
-        new Project("Multiplayer 3D Action Game", complexity: "High"),
-        new Project("Educational Mobile App", complexity: "Medium"),
-        new Project("VR Training Simulation", complexity: "Advanced"),
-        new Project("Cross-platform Productivity Tool", complexity: "Medium")
+        new Project("CyberSecurity Education App for Kids", 
+                   company: "DeepCytes",
+                   focus: "Interactive learning & gamification"),
+        
+        new Project("ABU Robocon 2026 Competition Robot", 
+                   team: "Agnels Robotics Club",
+                   role: "Team Leader"),
+        
+        new Project("Air Duct Monitoring Bot", 
+                   type: "Autonomous Navigation System",
+                   tech: "RaspberryPi, Sensors, IoT")
     };
     
     public void WorkFlow()
     {
         while (passionate)
         {
-            TeachStudents();
-            DevelopGames();
-            BuildApplications();
-            ContinuousLearning();
-            SolveProblems();
+            DevelopEducationalApps();
+            BuildRobots();
+            LeadTeams();
+            SolveEngineeringChallenges();
+            MentorStudents();
             
-            if (inspiration.strikes())
-                CreateSomethingNew();
+            if (innovation.needed())
+                CreateSolution();
         }
     }
 }
