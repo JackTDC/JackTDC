@@ -9,7 +9,7 @@
 ▸ **Specialization:** Game Development / App Development / Electronics / Education  
 ▸ **Current Position:** Lead Game Developer at [DeepCytes](https://www.linkedin.com/company/deepcytes/?originalSubdomain=in)  
 ▸ **Leadership Role:** Team Leader at Agnels Robotics Club  
-▸ **Industry Experience:** 18+ Years in Gaming & Development  
+▸ **Industry Experience:** 5+ Years in Gaming & Development  
 ▸ **Focus Areas:** 3D Game Development, Multiplayer Networking & Robotics  
 ▸ **Core Technologies:** Unity, C#, Flutter, Game Design, Arduino, Embedded Systems  
 ▸ **Contact:** [jackathu439@gmail.com](mailto:jackathu439@gmail.com)
